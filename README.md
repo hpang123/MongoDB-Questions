@@ -8,3 +8,4 @@
 - [MongoDB Interview questions on Wisdom Jobs](https://www.wisdomjobs.com/e-university/mongodb-interview-questions.html)
 - [MongoDB command cheatsheet](https://www.sysleaf.com/command-mongodb/)
 - [Node Mongodb Document](https://mongodb.github.io/node-mongodb-native/driver-articles/mongoclient.html)
+- [MongoDB 4.2 Manual](https://docs.mongodb.com/manual/)
